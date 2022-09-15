@@ -1,0 +1,12 @@
+.header img{}
+.header{
+    background-color: #22a3ac;
+}
+.header ul{}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    padding: 20px 30px;
+    color: #fff;
+}

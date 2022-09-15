@@ -1,0 +1,75 @@
+.header{
+    background-color:#101446 ;
+}
+.header img{
+    width: 100px;
+}
+.header ul{
+    margin-bottom: 0;text-align:right;
+}
+.header ul li{
+    display: inline-block;
+}
+.header ul li a{
+    display: block;
+    color: #fff;
+    padding: 0 20px;
+    line-height: 67px;
+}
+.header ul li a:hover{}
+/* banner section */
+ .banner{
+     background-image: url(https://i.ibb.co/QmBqJmJ/intro-bg.jpg); 
+      height: 740px;
+     background-size: cover;
+     padding: 100px 0;
+    
+ }
+  .banner button{
+    padding: ;
+    margin-bottom: 20px;
+  }
+.banner h1 {
+    color: #fff;
+    padding: 220px 0 15px 0;
+}
+.banner p{
+    color: #fff;
+ }
+
+
+/* content section */
+.content{
+    background-color: #bac1f3;
+    padding: 60px 0px;
+    width: 100%;
+}
+.content p{
+    width: ;
+}
+/* about us */
+.about{
+    background-color: #c2d4ea;
+    padding: 60px 0;
+}
+.about p{
+    text-align: left;
+}
+/* map */
+.map{
+    padding: 60px 0;
+}
+/* footer */
+.footer{
+    color: #fff;
+    background-color: #0062d3;
+    padding: 20px;
+}
+.footer span{
+    font-weight: 700;
+}
+ 
+
+input.btn.btn-primary {
+    margin-right: 85%;
+}
